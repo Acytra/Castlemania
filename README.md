@@ -4,7 +4,7 @@ This is an unlicensed Freeware Castlevania fangame where you can play as a vampi
 ### **For more info visit:**
 https://acytra.itch.io/castlemania
 
-# **Imágenes:**
+# **Images:**
 ![1](1.png)
 ![2](2.png)
 ![3](3.png)
